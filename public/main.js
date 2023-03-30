@@ -5,7 +5,7 @@ function Baglan(){
     console.log('Sunucuya bağlanıyor');
     //socket = io.connect('http://localhost:3000/');
 
-
+    console.log('qodkjwqpo');
     var joinServerParameters = { masaAdi: "xxx"   };    
     socket = io.connect('http://localhost:3000/', {query: 'joinServerParameters=' + JSON.stringify(joinServerParameters)  });
 
