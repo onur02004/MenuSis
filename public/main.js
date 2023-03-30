@@ -1,6 +1,5 @@
 var socket = null
 
-
 function Baglan(){
     console.log('Sunucuya bağlanıyor');
     //socket = io.connect('http://localhost:3000/');
