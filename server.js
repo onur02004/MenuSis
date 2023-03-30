@@ -40,3 +40,5 @@ io.on('connection', (socket) => {
         console.log('Client Gitti. Tür(client/admin): ');
     });
 })
+// kopwekorpwekoqkpğweqkpwğekwqpeqkpoweqwkoeqw
+// batu auatuatauan uı
